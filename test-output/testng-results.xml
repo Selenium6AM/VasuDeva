@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Anu" duration-ms="8714" started-at="2019-03-13T01:10:27Z" finished-at="2019-03-13T01:10:35Z">
+    <groups>
+    </groups>
+    <test name="Primusbank" duration-ms="8714" started-at="2019-03-13T01:10:27Z" finished-at="2019-03-13T01:10:35Z">
+      <class name="com.vasu.testng.BranchDelete">
+        <test-method status="PASS" signature="branchDelete()[pri:0, instance:com.vasu.testng.BranchDelete@9629756]" name="branchDelete" duration-ms="1" started-at="2019-03-13T06:40:35Z" finished-at="2019-03-13T06:40:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- branchDelete -->
+      </class> <!-- com.vasu.testng.BranchDelete -->
+      <class name="com.vasu.testng.BranchCreation">
+        <test-method status="PASS" signature="appLaunch()[pri:0, instance:com.vasu.testng.BranchCreation@7f9a81e8]" name="appLaunch" is-config="true" duration-ms="8674" started-at="2019-03-13T06:40:18Z" finished-at="2019-03-13T06:40:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appLaunch -->
+        <test-method status="PASS" signature="appLogin()[pri:0, instance:com.vasu.testng.BranchCreation@7f9a81e8]" name="appLogin" is-config="true" duration-ms="1351" started-at="2019-03-13T06:40:27Z" finished-at="2019-03-13T06:40:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appLogin -->
+        <test-method status="PASS" signature="branchCreation()[pri:0, instance:com.vasu.testng.BranchCreation@7f9a81e8]" name="branchCreation" duration-ms="6764" started-at="2019-03-13T06:40:28Z" finished-at="2019-03-13T06:40:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- branchCreation -->
+        <test-method status="PASS" signature="appLogout()[pri:0, instance:com.vasu.testng.BranchCreation@7f9a81e8]" name="appLogout" is-config="true" duration-ms="572" started-at="2019-03-13T06:40:35Z" finished-at="2019-03-13T06:40:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appLogout -->
+        <test-method status="PASS" signature="appClose()[pri:0, instance:com.vasu.testng.BranchCreation@7f9a81e8]" name="appClose" is-config="true" duration-ms="42" started-at="2019-03-13T06:40:35Z" finished-at="2019-03-13T06:40:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appClose -->
+      </class> <!-- com.vasu.testng.BranchCreation -->
+    </test> <!-- Primusbank -->
+  </suite> <!-- Anu -->
+</testng-results>

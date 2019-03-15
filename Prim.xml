@@ -1,0 +1,12 @@
+
+<suite name="Anu">
+  <test name="Primusbank">
+    <classes>
+      
+      <class name="com.vasu.testng.BranchCreation"/>
+      
+      <class name="com.vasu.testng.BranchDelete"/>
+     
+    </classes>
+  </test> 
+</suite>
